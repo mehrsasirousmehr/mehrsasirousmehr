@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mehrsasirousmehr
-- 👀 I’m interested in front-end developing
+- 💞 I’m interested in front-end developing
 - 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on remote projects
+- 👀 I’m looking to collaborate on remote projects
 - 📫 How to reach me:
 you can send me email:
 sirousmehr.mehrsa21@gmail.com
