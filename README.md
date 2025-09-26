@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehrsasirousmehr
 - 💞 I’m interested in front-end developing
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Angular
 - 👀 I’m looking to collaborate on remote projects
 - 📫 How to reach me:
 you can send me email:
